@@ -1,3 +1,4 @@
+Exit
 
 English | [简体中文](./README.zh-CN.md)
 
@@ -59,4 +60,4 @@ For Ruby scripts you need to install gems:
 ```
 
 ---
-Code is released under WTFPL.
+Code is released under WTFPL.exit
